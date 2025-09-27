@@ -5,6 +5,35 @@ void main() {
   runApp(const AcademiaApp());
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class AcademiaApp extends StatelessWidget {
   const AcademiaApp({super.key});
 
